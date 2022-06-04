@@ -27,6 +27,7 @@
     padding: 6px 10px;
     text-decoration: none;
     background: #007bff;
+    border: 1px;
 }
 
 .popup-close {
